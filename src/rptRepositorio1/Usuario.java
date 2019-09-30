@@ -10,5 +10,5 @@ package rptRepositorio1;
  * @author ALUMNO - FIIS
  */
 public class Usuario {
-    
+    System.sout.println("Primera parte");
 }
